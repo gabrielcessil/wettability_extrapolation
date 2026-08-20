@@ -1,2 +1,2 @@
-# wettability_extrapolation
-This project extrapolates in-situ measurements in porous media
+# ContactAngle_Interpolation
+This project aims to interpolate contact angles measured in-situ on porous rocks.
